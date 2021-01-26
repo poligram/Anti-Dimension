@@ -1,0 +1,5 @@
+name: AntiDimension
+version: 0.1
+main: antidimension.antidimension.AntiDimension
+authors: [Poligram]
+description: Stops you from going into other dimensions

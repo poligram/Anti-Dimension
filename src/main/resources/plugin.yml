@@ -1,0 +1,5 @@
+name: AntiDimension
+version: ${project.version}
+main: antidimension.antidimension.AntiDimension
+authors: [Poligram]
+description: Stops you from going into other dimensions
